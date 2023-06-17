@@ -1,1 +1,3 @@
-If you are seeing this you are either really smart or just poking through github lol
+# LORD-G INC
+
+An origination dedicated to providing free, open source projects to communities.
