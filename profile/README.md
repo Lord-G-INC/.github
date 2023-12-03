@@ -1,9 +1,9 @@
 # LORD-G INC
 
-An origination dedicated to providing free, open source projects to communities.
+An organization dedicated to providing free, open source projects to communities.
 
 ## Website
-More information about our organization can be found here: https://lord-g-inc.github.io/
+More information about our organization can be found here: https://lordg.org
 
 ## About Leadership
 
